@@ -9,7 +9,7 @@
 
   /opt/anaconda3/envs/my-quant-stack/bin/jupyter notebook
 
-3. 
+3. working with openBB for downloading data
 
 
 
