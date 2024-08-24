@@ -11,6 +11,19 @@
 
 3. working with openBB for downloading data
 
+4. option data
+
+Option Greeks are financial metrics that help traders understand how the price of an option is likely to change in response to different factors. They measure the sensitivity of an option’s price to various variables, such as changes in the underlying asset’s price, time, volatility, and interest rates.
+
+Key Option Greeks:
+
+	1.	Delta (Δ): Measures how much the option’s price is expected to change for a $1 change in the underlying asset’s price.
+	2.	Gamma (Γ): Measures the rate of change of Delta, indicating how Delta will change as the underlying asset’s price changes.
+	3.	Theta (Θ): Measures how much the option’s price is expected to change as time passes, reflecting time decay.
+	4.	Vega (ν): Measures how much the option’s price is expected to change for a 1% change in the underlying asset’s volatility.
+	5.	Rho (ρ): Measures how much the option’s price is expected to change for a 1% change in interest rates.
+
+These Greeks are essential tools for options traders to manage risk and make informed trading decisions.
 
 
 # Other Notes
